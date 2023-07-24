@@ -1,3 +1,18 @@
 {
-    "version_code": "2307170"
+    "name": "Device Care",
+    "version_code": "2307170",
+    "channel": {
+        "stable": {
+            "version_code": "2307240"
+        },
+        "beta": {
+            "version_code": "2307170" 
+        },
+        "dev": {
+            "version_code": "2307170" 
+        },
+        "internal": {
+            "version_code": "2307170" 
+        }
+    }
 }
