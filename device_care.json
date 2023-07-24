@@ -3,10 +3,10 @@
     "version_code": "2307170",
     "channel": {
         "debug": {
-            "version_code": "2307250" 
+            "version_code": "2307170" 
         },
         "stable": {
-            "version_code": "2307240"
+            "version_code": "2307170"
         },
         "beta": {
             "version_code": "2307170" 
