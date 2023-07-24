@@ -1,3 +1,21 @@
 {
-    "version_code": "202307140"
+    "name": "Mediabook",
+    "version_code": "202307140",
+    "channel": {
+        "debug": {
+            "version_code": "202307140" 
+        },
+        "stable": {
+            "version_code": "202307140"
+        },
+        "beta": {
+            "version_code": "202307140" 
+        },
+        "dev": {
+            "version_code": "202307140" 
+        },
+        "internal": {
+            "version_code": "202307140" 
+        }
+    }
 }
