@@ -2,6 +2,9 @@
     "name": "Device Care",
     "version_code": "2307170",
     "channel": {
+        "debug": {
+            "version_code": "2307250" 
+        },
         "stable": {
             "version_code": "2307240"
         },
