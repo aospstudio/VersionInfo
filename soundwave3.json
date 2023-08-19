@@ -1,21 +1,21 @@
 {
     "name": "SoundWave 3",
-    "version_code": "2308030",
+    "version_code": "300000000",
     "channel": {
         "debug": {
-            "version_code": "2308030" 
+            "version_code": "300000000" 
         },
         "stable": {
-            "version_code": "2308030"
+            "version_code": "300000000"
         },
         "beta": {
-            "version_code": "2308030" 
+            "version_code": "300000000" 
         },
         "dev": {
-            "version_code": "2308030" 
+            "version_code": "300000000" 
         },
         "internal": {
-            "version_code": "2308030" 
+            "version_code": "300000000" 
         }
     }
 }
