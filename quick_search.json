@@ -1,21 +1,21 @@
 {
     "name": "Quick Search",
-    "version_code": "300000000",
+    "version_code": "330000007",
     "channel": {
         "debug": {
-            "version_code": "300000000" 
+            "version_code": "330000007"
         },
         "stable": {
-            "version_code": "300000000"
+            "version_code": "330000007"
         },
         "beta": {
-            "version_code": "300000000" 
+            "version_code": "330000007"
         },
         "dev": {
-            "version_code": "300000000" 
+            "version_code": "330000007"
         },
         "internal": {
-            "version_code": "300000000" 
+            "version_code": "330000007"
         }
     }
 }
