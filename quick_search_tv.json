@@ -1,21 +1,20 @@
 {
     "name": "Quick Search TV",
-    "version_code": "330000017",
     "channel": {
         "debug": {
-            "version_code": "330000017"
+            "version_code": "330000020"
         },
         "stable": {
-            "version_code": "330000017"
+            "version_code": "330000020"
         },
         "beta": {
-            "version_code": "330000017"
+            "version_code": "330000020"
         },
         "dev": {
-            "version_code": "330000017"
+            "version_code": "330000020"
         },
         "internal": {
-            "version_code": "330000017"
+            "version_code": "330000020"
         }
     }
 }
