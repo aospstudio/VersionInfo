@@ -2,19 +2,19 @@
     "name": "Quick Search",
     "channel": {
         "debug": {
-            "version_code": "330000020"
+            "version_code": "330000024"
         },
         "stable": {
-            "version_code": "330000020"
+            "version_code": "330000024"
         },
         "beta": {
-            "version_code": "330000020"
+            "version_code": "330000024"
         },
         "dev": {
-            "version_code": "330000020"
+            "version_code": "330000024"
         },
         "internal": {
-            "version_code": "330000020"
+            "version_code": "330000024"
         }
     }
 }
