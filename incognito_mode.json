@@ -2,19 +2,19 @@
     "name": "Incognito Mode",
     "channel": {
         "debug": {
-            "version_code": "330000024"
+            "version_code": "330000039"
         },
         "stable": {
-            "version_code": "330000024"
+            "version_code": "330000039"
         },
         "beta": {
-            "version_code": "330000024"
+            "version_code": "330000039"
         },
         "dev": {
-            "version_code": "330000024"
+            "version_code": "330000039"
         },
         "internal": {
-            "version_code": "330000024"
+            "version_code": "330000039"
         }
     }
 }
