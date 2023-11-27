@@ -2,19 +2,19 @@
     "name": "AOSP STUDIO+",
     "channel": {
         "debug": {
-            "version_code": "330000047"
+            "version_code": "330000049"
         },
         "stable": {
-            "version_code": "330000047"
+            "version_code": "330000049"
         },
         "beta": {
-            "version_code": "330000047"
+            "version_code": "330000049"
         },
         "dev": {
-            "version_code": "330000047"
+            "version_code": "330000049"
         },
         "internal": {
-            "version_code": "330000047"
+            "version_code": "330000049"
         }
     }
 }
