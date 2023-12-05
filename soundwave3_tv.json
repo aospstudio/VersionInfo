@@ -2,19 +2,19 @@
     "name": "SoundWave 3 TV",
     "channel": {
         "debug": {
-            "version_code": "330000055"
+            "version_code": "330000054"
         },
         "stable": {
-            "version_code": "330000055"
+            "version_code": "330000054"
         },
         "beta": {
-            "version_code": "330000055"
+            "version_code": "330000054"
         },
         "dev": {
-            "version_code": "330000055"
+            "version_code": "330000054"
         },
         "internal": {
-            "version_code": "330000055"
+            "version_code": "330000054"
         }
     }
 }
