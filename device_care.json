@@ -2,19 +2,19 @@
     "name": "Device Care",
     "channel": {
         "debug": {
-            "version_code": "330000071"
+            "version_code": "330000072"
         },
         "stable": {
-            "version_code": "330000071"
+            "version_code": "330000072"
         },
         "beta": {
-            "version_code": "330000071"
+            "version_code": "330000072"
         },
         "dev": {
-            "version_code": "330000071"
+            "version_code": "330000072"
         },
         "internal": {
-            "version_code": "330000071"
+            "version_code": "330000072"
         }
     }
 }
