@@ -2,19 +2,19 @@
     "name": "Barcode Scanner",
     "channel": {
         "debug": {
-            "version_code": "330000083"
+            "version_code": "330000084"
         },
         "stable": {
-            "version_code": "330000083"
+            "version_code": "330000084"
         },
         "beta": {
-            "version_code": "330000083"
+            "version_code": "330000084"
         },
         "dev": {
-            "version_code": "330000083"
+            "version_code": "330000084"
         },
         "internal": {
-            "version_code": "330000083"
+            "version_code": "330000084"
         }
     }
 }
