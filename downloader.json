@@ -2,19 +2,19 @@
     "name": "Downloader",
     "channel": {
         "debug": {
-            "version_code": "330000100"
+            "version_code": "330000105"
         },
         "stable": {
-            "version_code": "330000100"
+            "version_code": "330000105"
         },
         "beta": {
-            "version_code": "330000100"
+            "version_code": "330000105"
         },
         "dev": {
-            "version_code": "330000100"
+            "version_code": "330000105"
         },
         "internal": {
-            "version_code": "330000100"
+            "version_code": "330000105"
         }
     }
 }
