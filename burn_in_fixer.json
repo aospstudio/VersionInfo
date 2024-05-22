@@ -1,27 +1,27 @@
 {
-    "name": "SoundWave EQ TV",
+    "name": "Burn-in Fixer",
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000137",
+            "version_code": "330000135",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000137",
-            "changelog": "With this update, overall stability improvements have been made. Additionally, we have made a minor design revision to our application menu, moving it from the left side to the top.",
+            "version_code": "330000135",
+            "changelog": "With this update, overall stability improvements have been made for all types of devices.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000137",
+            "version_code": "330000135",
             "changelog": "",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000137",
+            "version_code": "330000135",
             "changelog": "",
             "isOptional": true,
             "downloadUrl": ""

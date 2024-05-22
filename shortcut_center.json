@@ -4,16 +4,13 @@
         "debug": {
             "version_code": "330000071"
         },
-        "stable": {
+        "release": {
             "version_code": "330000071"
         },
         "beta": {
             "version_code": "330000071"
         },
         "dev": {
-            "version_code": "330000071"
-        },
-        "internal": {
             "version_code": "330000071"
         }
     }

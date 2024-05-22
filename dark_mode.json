@@ -1,20 +1,30 @@
 {
     "name": "Dark Mode",
+    "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000105"
+            "version_code": "330000135",
+            "changelog": "Android Emulator application debug testing.",
+            "isOptional": true,
+            "downloadUrl": ""
         },
-        "stable": {
-            "version_code": "330000105"
+        "release": {
+            "version_code": "330000135",
+            "changelog": "With this update, overall stability improvements have been made for all types of devices.",
+            "isOptional": true,
+            "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000105"
+            "version_code": "330000135",
+            "changelog": "",
+            "isOptional": true,
+            "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000105"
-        },
-        "internal": {
-            "version_code": "330000105"
+            "version_code": "330000135",
+            "changelog": "",
+            "isOptional": true,
+            "downloadUrl": ""
         }
     }
 }
