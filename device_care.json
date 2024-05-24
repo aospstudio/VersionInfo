@@ -15,8 +15,8 @@
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000135",
-            "changelog": "",
+            "version_code": "330000139",
+            "changelog": "BETA - We've redesigned the login page. Now, the login page buttons are grouped as cards stacked vertically. Additionally, we've added a new page where you can see the current operating frequency, maximum frequency, CPU usage percentage, and CPU temperature in real-time.",
             "isOptional": true,
             "downloadUrl": ""
         },
