@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000135",
+            "version_code": "330000141",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000135",
-            "changelog": "With this update, overall stability improvements have been made for all types of devices.",
+            "version_code": "330000141",
+            "changelog": "With the new update, we made a small change to the homepage design. Additionally, the new homepage is now more compatible with foldable and tablet devices. We have also added a CPU tab in this update. Through this tab, you can see your CPU's frequency, usage percentage, and temperature in real-time. Moreover, we made some minor design changes to the battery tab and added a shortcut to the device's battery saver settings.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
             "version_code": "330000139",
-            "changelog": "BETA - We've redesigned the login page. Now, the login page buttons are grouped as cards stacked vertically. Additionally, we've added a new page where you can see the current operating frequency, maximum frequency, CPU usage percentage, and CPU temperature in real-time.",
+            "changelog": "With the new update, we made a small change to the homepage design. Additionally, the new homepage is now more compatible with foldable and tablet devices. We have also added a CPU tab in this update. Through this tab, you can see your CPU's frequency, usage percentage, and temperature in real-time. Moreover, we made some minor design changes to the battery tab and added a shortcut to the device's battery saver settings.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000135",
-            "changelog": "",
+            "version_code": "330000141",
+            "changelog": "With the new update, we made a small change to the homepage design. Additionally, the new homepage is now more compatible with foldable and tablet devices. We have also added a CPU tab in this update. Through this tab, you can see your CPU's frequency, usage percentage, and temperature in real-time. Moreover, we made some minor design changes to the battery tab and added a shortcut to the device's battery saver settings.",
             "isOptional": true,
             "downloadUrl": ""
         }
