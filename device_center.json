@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000135",
+            "version_code": "330000141",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000135",
-            "changelog": "With this update, overall stability improvements have been made for all types of devices. We have transitioned to an in-card page design for foldable and tablet devices.",
+            "version_code": "330000141",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000135",
-            "changelog": "",
+            "version_code": "330000141",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000135",
-            "changelog": "",
+            "version_code": "330000141",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         }

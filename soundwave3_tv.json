@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000137",
+            "version_code": "330000141",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000137",
-            "changelog": "With this update, overall stability improvements have been made. Additionally, we have made a minor design revision to our application menu, moving it from the left side to the top.",
+            "version_code": "330000141",
+            "changelog": "Unfortunately, we have some bad news. The background service that was displayed as a persistent notification, allowing SoundWave to run continuously in the background without being affected by battery optimizations, has been permanently banned by Google. From now on, the service will operate without this feature. This issue is important for both our paid and free users. For more detailed information, please visit: https://aospstudio.com/soundwave-important-notice",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000137",
-            "changelog": "",
+            "version_code": "330000141",
+            "changelog": "Unfortunately, we have some bad news. The background service that was displayed as a persistent notification, allowing SoundWave to run continuously in the background without being affected by battery optimizations, has been permanently banned by Google. From now on, the service will operate without this feature. This issue is important for both our paid and free users. For more detailed information, please visit: https://aospstudio.com/soundwave-important-notice",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000137",
-            "changelog": "",
+            "version_code": "330000141",
+            "changelog": "Unfortunately, we have some bad news. The background service that was displayed as a persistent notification, allowing SoundWave to run continuously in the background without being affected by battery optimizations, has been permanently banned by Google. From now on, the service will operate without this feature. This issue is important for both our paid and free users. For more detailed information, please visit: https://aospstudio.com/soundwave-important-notice",
             "isOptional": true,
             "downloadUrl": ""
         }
