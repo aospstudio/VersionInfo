@@ -3,25 +3,25 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""

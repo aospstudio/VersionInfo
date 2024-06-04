@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000141",
-            "changelog": "Unfortunately, we have some bad news. The background service that was displayed as a persistent notification, allowing SoundWave to run continuously in the background without being affected by battery optimizations, has been permanently banned by Google. From now on, the service will operate without this feature. This issue is important for both our paid and free users. For more detailed information, please visit: https://aospstudio.com/soundwave-important-notice",
+            "version_code": "330000142",
+            "changelog": "With the new update, manual save buttons have been removed. Instead, an automatic system has been added. We hope this will solve the saving issues some users have experienced. If you encounter any problems again, please leave us feedback without significantly lowering our ratings. ",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000141",
-            "changelog": "Unfortunately, we have some bad news. The background service that was displayed as a persistent notification, allowing SoundWave to run continuously in the background without being affected by battery optimizations, has been permanently banned by Google. From now on, the service will operate without this feature. This issue is important for both our paid and free users. For more detailed information, please visit: https://aospstudio.com/soundwave-important-notice",
+            "version_code": "330000142",
+            "changelog": "With the new update, manual save buttons have been removed. Instead, an automatic system has been added. We hope this will solve the saving issues some users have experienced. If you encounter any problems again, please leave us feedback without significantly lowering our ratings. ",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000141",
-            "changelog": "Unfortunately, we have some bad news. The background service that was displayed as a persistent notification, allowing SoundWave to run continuously in the background without being affected by battery optimizations, has been permanently banned by Google. From now on, the service will operate without this feature. This issue is important for both our paid and free users. For more detailed information, please visit: https://aospstudio.com/soundwave-important-notice",
+            "version_code": "330000142",
+            "changelog": "With the new update, manual save buttons have been removed. Instead, an automatic system has been added. We hope this will solve the saving issues some users have experienced. If you encounter any problems again, please leave us feedback without significantly lowering our ratings. ",
             "isOptional": true,
             "downloadUrl": ""
         }

@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000141",
-            "changelog": "With the new update, we made a small change to the homepage design. Additionally, the new homepage is now more compatible with foldable and tablet devices. We have also added a CPU tab in this update. Through this tab, you can see your CPU's frequency, usage percentage, and temperature in real-time. Moreover, we made some minor design changes to the battery tab and added a shortcut to the device's battery saver settings.",
+            "version_code": "330000142",
+            "changelog": "With this update, Device Care now supports biometric login. Devices with biometric hardware can enable it from the settings screen of the application. To use biometrics, it must be used as the screen lock method on your device. Additionally, we have slightly increased the speed of recommendation scans. Now, it will keep you waiting less.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000139",
-            "changelog": "With the new update, we made a small change to the homepage design. Additionally, the new homepage is now more compatible with foldable and tablet devices. We have also added a CPU tab in this update. Through this tab, you can see your CPU's frequency, usage percentage, and temperature in real-time. Moreover, we made some minor design changes to the battery tab and added a shortcut to the device's battery saver settings.",
+            "version_code": "330000142",
+            "changelog": "With this update, Device Care now supports biometric login. Devices with biometric hardware can enable it from the settings screen of the application. To use biometrics, it must be used as the screen lock method on your device. Additionally, we have slightly increased the speed of recommendation scans. Now, it will keep you waiting less.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000141",
-            "changelog": "With the new update, we made a small change to the homepage design. Additionally, the new homepage is now more compatible with foldable and tablet devices. We have also added a CPU tab in this update. Through this tab, you can see your CPU's frequency, usage percentage, and temperature in real-time. Moreover, we made some minor design changes to the battery tab and added a shortcut to the device's battery saver settings.",
+            "version_code": "330000142",
+            "changelog": "With this update, Device Care now supports biometric login. Devices with biometric hardware can enable it from the settings screen of the application. To use biometrics, it must be used as the screen lock method on your device. Additionally, we have slightly increased the speed of recommendation scans. Now, it will keep you waiting less.",
             "isOptional": true,
             "downloadUrl": ""
         }

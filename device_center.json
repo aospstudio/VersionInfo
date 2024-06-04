@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000141",
+            "version_code": "330000142",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000141",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "version_code": "330000142",
+            "changelog": "With this update, Device Center gets a brand new look. We have added a new feature for Plus users. Wi-Fi Security scans the security protocol of the Wi-Fi network you are connected to and informs you whether it is secure or not. The hardware monitoring feature has now been removed. We have added a redirect to our Device Care application for more advanced hardware monitoring and system information.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000141",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "version_code": "330000142",
+            "changelog": "With this update, Device Center gets a brand new look. We have added a new feature for Plus users. Wi-Fi Security scans the security protocol of the Wi-Fi network you are connected to and informs you whether it is secure or not. The hardware monitoring feature has now been removed. We have added a redirect to our Device Care application for more advanced hardware monitoring and system information.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000141",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "version_code": "330000142",
+            "changelog": "With this update, Device Center gets a brand new look. We have added a new feature for Plus users. Wi-Fi Security scans the security protocol of the Wi-Fi network you are connected to and informs you whether it is secure or not. The hardware monitoring feature has now been removed. We have added a redirect to our Device Care application for more advanced hardware monitoring and system information.",
             "isOptional": true,
             "downloadUrl": ""
         }
