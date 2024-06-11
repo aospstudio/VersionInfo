@@ -3,27 +3,27 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000142",
+            "version_code": "330000147",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000142",
-            "changelog": "With this update, Device Care now supports biometric login. Devices with biometric hardware can enable it from the settings screen of the application. To use biometrics, it must be used as the screen lock method on your device. Additionally, we have slightly increased the speed of recommendation scans. Now, it will keep you waiting less.",
-            "isOptional": true,
+            "version_code": "330000147",
+            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away! Additionally, we've added a new page called the 'Security Dashboard.' On this page, we recommend award-winning S and A tier antivirus applications for your security, without any sponsorship. We also provide shortcuts for quick access if you use any of them.",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000142",
-            "changelog": "With this update, Device Care now supports biometric login. Devices with biometric hardware can enable it from the settings screen of the application. To use biometrics, it must be used as the screen lock method on your device. Additionally, we have slightly increased the speed of recommendation scans. Now, it will keep you waiting less.",
-            "isOptional": true,
+            "version_code": "330000147",
+            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away! Additionally, we've added a new page called the 'Security Dashboard.' On this page, we recommend award-winning S and A tier antivirus applications for your security, without any sponsorship. We also provide shortcuts for quick access if you use any of them.",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000142",
-            "changelog": "With this update, Device Care now supports biometric login. Devices with biometric hardware can enable it from the settings screen of the application. To use biometrics, it must be used as the screen lock method on your device. Additionally, we have slightly increased the speed of recommendation scans. Now, it will keep you waiting less.",
-            "isOptional": true,
+            "version_code": "330000147",
+            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away! Additionally, we've added a new page called the 'Security Dashboard.' On this page, we recommend award-winning S and A tier antivirus applications for your security, without any sponsorship. We also provide shortcuts for quick access if you use any of them.",
+            "isOptional": false,
             "downloadUrl": ""
         }
     }

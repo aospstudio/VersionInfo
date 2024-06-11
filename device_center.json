@@ -3,27 +3,27 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000142",
+            "version_code": "330000147",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000142",
-            "changelog": "With this update, Device Center gets a brand new look. We have added a new feature for Plus users. Wi-Fi Security scans the security protocol of the Wi-Fi network you are connected to and informs you whether it is secure or not. The hardware monitoring feature has now been removed. We have added a redirect to our Device Care application for more advanced hardware monitoring and system information.",
-            "isOptional": true,
+            "version_code": "330000147",
+            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away!",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000142",
-            "changelog": "With this update, Device Center gets a brand new look. We have added a new feature for Plus users. Wi-Fi Security scans the security protocol of the Wi-Fi network you are connected to and informs you whether it is secure or not. The hardware monitoring feature has now been removed. We have added a redirect to our Device Care application for more advanced hardware monitoring and system information.",
-            "isOptional": true,
+            "version_code": "330000147",
+            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away!",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000142",
-            "changelog": "With this update, Device Center gets a brand new look. We have added a new feature for Plus users. Wi-Fi Security scans the security protocol of the Wi-Fi network you are connected to and informs you whether it is secure or not. The hardware monitoring feature has now been removed. We have added a redirect to our Device Care application for more advanced hardware monitoring and system information.",
-            "isOptional": true,
+            "version_code": "330000147",
+            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away!",
+            "isOptional": false,
             "downloadUrl": ""
         }
     }
