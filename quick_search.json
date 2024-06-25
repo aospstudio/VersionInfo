@@ -3,27 +3,27 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000147",
+            "version_code": "330000151",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000147",
-            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away!",
-            "isOptional": false,
+            "version_code": "330000151",
+            "changelog": "Hello to the Neptune Browser!\n\nFrom now on, we are moving beyond being just a simple browser. Neptune Browser is being renewed step by step to provide a better experience. With this update, support for Android 15 Beta has been provided. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters. Lastly, we have added a notification for Incognito mode users to close tabs with a single tap.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000147",
-            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away!",
-            "isOptional": false,
+            "version_code": "330000151",
+            "changelog": "Hello to the Neptune Browser!\n\nFrom now on, we are moving beyond being just a simple browser. Neptune Browser is being renewed step by step to provide a better experience. With this update, support for Android 15 Beta has been provided. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters. Lastly, we have added a notification for Incognito mode users to close tabs with a single tap.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000147",
-            "changelog": "Hello to the Little Star Edition update! With this update, we've made various improvements throughout the app. There were some bugs, and we've chased them away!",
-            "isOptional": false,
+            "version_code": "330000151",
+            "changelog": "Hello to the Neptune Browser!\n\nFrom now on, we are moving beyond being just a simple browser. Neptune Browser is being renewed step by step to provide a better experience. With this update, support for Android 15 Beta has been provided. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters. Lastly, we have added a notification for Incognito mode users to close tabs with a single tap.",
+            "isOptional": true,
             "downloadUrl": ""
         }
     }
