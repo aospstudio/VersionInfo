@@ -3,27 +3,27 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000153",
+            "version_code": "330000156",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000153",
-            "changelog": "Hello to the Neptune Browser!\n\nFrom now on, we are moving beyond being just a simple browser. Neptune Browser is being renewed step by step to provide a better experience. With this update, support for Android 15 Beta has been provided. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters. Lastly, we have added a notification for Incognito mode users to close tabs with a single tap.",
-            "isOptional": true,
+            "version_code": "330000156",
+            "changelog": "IMPORTANT - Due to an issue with the redesigned mouse cursor code, the Back button function on your remote control was getting stuck. We have fixed this problem and hope it will not occur again. We apologize to all our users for any inconvenience caused. We still want to offer the refreshed experience of the Neptune browser to our valued users.",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000153",
-            "changelog": "Hello to the Neptune Browser!\n\nFrom now on, we are moving beyond being just a simple browser. Neptune Browser is being renewed step by step to provide a better experience. With this update, support for Android 15 Beta has been provided. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters. Lastly, we have added a notification for Incognito mode users to close tabs with a single tap.",
-            "isOptional": true,
+            "version_code": "330000156",
+            "changelog": "IMPORTANT - Due to an issue with the redesigned mouse cursor code, the Back button function on your remote control was getting stuck. We have fixed this problem and hope it will not occur again. We apologize to all our users for any inconvenience caused. We still want to offer the refreshed experience of the Neptune browser to our valued users.",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000153",
-            "changelog": "Hello to the Neptune Browser!\n\nFrom now on, we are moving beyond being just a simple browser. Neptune Browser is being renewed step by step to provide a better experience. With this update, support for Android 15 Beta has been provided. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters. Lastly, we have added a notification for Incognito mode users to close tabs with a single tap.",
-            "isOptional": true,
+            "version_code": "330000156",
+            "changelog": "IMPORTANT - Due to an issue with the redesigned mouse cursor code, the Back button function on your remote control was getting stuck. We have fixed this problem and hope it will not occur again. We apologize to all our users for any inconvenience caused. We still want to offer the refreshed experience of the Neptune browser to our valued users.",
+            "isOptional": false,
             "downloadUrl": ""
         }
     }
