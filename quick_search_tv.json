@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000156",
+            "version_code": "330000160",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000156",
-            "changelog": "IMPORTANT - Due to an issue with the redesigned mouse cursor code, the Back button function on your remote control was getting stuck. We have fixed this problem and hope it will not occur again. We apologize to all our users for any inconvenience caused. We still want to offer the refreshed experience of the Neptune browser to our valued users.",
+            "version_code": "330000160",
+            "changelog": "With this update, we have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000156",
-            "changelog": "IMPORTANT - Due to an issue with the redesigned mouse cursor code, the Back button function on your remote control was getting stuck. We have fixed this problem and hope it will not occur again. We apologize to all our users for any inconvenience caused. We still want to offer the refreshed experience of the Neptune browser to our valued users.",
+            "version_code": "330000160",
+            "changelog": "With this update, we have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000156",
-            "changelog": "IMPORTANT - Due to an issue with the redesigned mouse cursor code, the Back button function on your remote control was getting stuck. We have fixed this problem and hope it will not occur again. We apologize to all our users for any inconvenience caused. We still want to offer the refreshed experience of the Neptune browser to our valued users.",
+            "version_code": "330000160",
+            "changelog": "With this update, we have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
             "isOptional": false,
             "downloadUrl": ""
         }

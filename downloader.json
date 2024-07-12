@@ -3,26 +3,26 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000155",
+            "version_code": "330000160",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000155",
-            "changelog": "With this update, support for Android 15 Beta has been included. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters.",
+            "version_code": "330000160",
+            "changelog": "With this update, use your remote's back button with the revamped app menu and enjoy a simplified menu experience. We have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000155",
-            "changelog": "With this update, support for Android 15 Beta has been included. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters.",
+            "version_code": "330000160",
+            "changelog": "With this update, use your remote's back button with the revamped app menu and enjoy a simplified menu experience. We have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000155",
-            "changelog": "With this update, support for Android 15 Beta has been included. Additionally, by updating the ad blocker exclusive to Plus users, we have transitioned to the Ultimate Adblocker filters.",
+            "version_code": "330000160",
+            "changelog": "With this update, use your remote's back button with the revamped app menu and enjoy a simplified menu experience. We have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
             "isOptional": true,
             "downloadUrl": ""
         }
