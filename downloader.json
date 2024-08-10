@@ -15,14 +15,14 @@
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000160",
-            "changelog": "With this update, use your remote's back button with the revamped app menu and enjoy a simplified menu experience. We have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
+            "version_code": "330000162",
+            "changelog": "",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000160",
-            "changelog": "With this update, use your remote's back button with the revamped app menu and enjoy a simplified menu experience. We have added an automatic update checker to the about page of the app. Additionally, we have worked on some performance improvements and bug fixes.",
+            "version_code": "330000162",
+            "changelog": "",
             "isOptional": true,
             "downloadUrl": ""
         }
