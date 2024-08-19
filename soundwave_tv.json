@@ -3,27 +3,27 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "version_code": "330000160",
+            "version_code": "330000170",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "version_code": "330000160",
-            "changelog": "",
-            "isOptional": true,
+            "version_code": "330000170",
+            "changelog": "Starting next week we will be ending support for SoundWave Classic\nAll new improvements features and other updates will now be released for SoundWave EQ which is available in the store\nThank you for your understanding\nWith the new update we've added Azerbaijani Kazakh and Uzbek languages\nWith the new update we have migrated the infrastructure for storing user settings to a different system\nYou will notice a significant performance improvement in saving and reading settings especially on low to mid-range devices compared to previous versions\nHowever due to this change some of your user settings may not be transferred to the new system\nWith the new update we have optimized network operations in various parts of the app\nWith the new update we have improved overall app performance by offloading tasks that were previously executed on the main thread to separate threads\nOn devices running Android 12 and older we've made general adjustments to the background and button colors throughout the app\nAdditionally on Android 12 and above we've also updated the dynamic background and button colors with a focus on softer tones for the dark mode dynamic theme system on Android 12 and above\nMost settings in the app now do not require a restart to take effect\nMany user settings can now be applied instantly\nThe design of the Privacy Policy and Terms of Service consent form has been updated\nThe option to send optional diagnostic data is now located directly below the consent form (and can be changed later in the settings)\nVarious minor and major bugs throughout the app have been fixed",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "version_code": "330000162",
-            "changelog": "",
-            "isOptional": true,
+            "version_code": "330000170",
+            "changelog": "Starting next week we will be ending support for SoundWave Classic\nAll new improvements features and other updates will now be released for SoundWave EQ which is available in the store\nThank you for your understanding\nWith the new update we've added Azerbaijani Kazakh and Uzbek languages\nWith the new update we have migrated the infrastructure for storing user settings to a different system\nYou will notice a significant performance improvement in saving and reading settings especially on low to mid-range devices compared to previous versions\nHowever due to this change some of your user settings may not be transferred to the new system\nWith the new update we have optimized network operations in various parts of the app\nWith the new update we have improved overall app performance by offloading tasks that were previously executed on the main thread to separate threads\nOn devices running Android 12 and older we've made general adjustments to the background and button colors throughout the app\nAdditionally on Android 12 and above we've also updated the dynamic background and button colors with a focus on softer tones for the dark mode dynamic theme system on Android 12 and above\nMost settings in the app now do not require a restart to take effect\nMany user settings can now be applied instantly\nThe design of the Privacy Policy and Terms of Service consent form has been updated\nThe option to send optional diagnostic data is now located directly below the consent form (and can be changed later in the settings)\nVarious minor and major bugs throughout the app have been fixed",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "version_code": "330000162",
-            "changelog": "",
-            "isOptional": true,
+            "version_code": "330000170",
+            "changelog": "Starting next week we will be ending support for SoundWave Classic\nAll new improvements features and other updates will now be released for SoundWave EQ which is available in the store\nThank you for your understanding\nWith the new update we've added Azerbaijani Kazakh and Uzbek languages\nWith the new update we have migrated the infrastructure for storing user settings to a different system\nYou will notice a significant performance improvement in saving and reading settings especially on low to mid-range devices compared to previous versions\nHowever due to this change some of your user settings may not be transferred to the new system\nWith the new update we have optimized network operations in various parts of the app\nWith the new update we have improved overall app performance by offloading tasks that were previously executed on the main thread to separate threads\nOn devices running Android 12 and older we've made general adjustments to the background and button colors throughout the app\nAdditionally on Android 12 and above we've also updated the dynamic background and button colors with a focus on softer tones for the dark mode dynamic theme system on Android 12 and above\nMost settings in the app now do not require a restart to take effect\nMany user settings can now be applied instantly\nThe design of the Privacy Policy and Terms of Service consent form has been updated\nThe option to send optional diagnostic data is now located directly below the consent form (and can be changed later in the settings)\nVarious minor and major bugs throughout the app have been fixed",
+            "isOptional": false,
             "downloadUrl": ""
         }
     }
