@@ -7,7 +7,7 @@
             "versionCodeMinApi28": "340001001",
             "version_code": "340001001",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
@@ -15,7 +15,7 @@
             "versionCodeMinApi28": "340001001",
             "version_code": "340001001",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
@@ -23,7 +23,7 @@
             "versionCodeMinApi28": "340001001",
             "version_code": "340001001",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
@@ -31,7 +31,7 @@
             "versionCodeMinApi28": "340001001",
             "version_code": "340001001",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         }
     }
