@@ -3,35 +3,35 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002005,
-            "versionCodeMinApi28": 340001005,
-            "version_code": "340001005",
+            "versionCodeMinApi31": 340002008,
+            "versionCodeMinApi28": 340001008,
+            "version_code": "340001008",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002005,
-            "versionCodeMinApi28": 340001005,
-            "version_code": "340001005",
+            "versionCodeMinApi31": 340002008,
+            "versionCodeMinApi28": 340001008,
+            "version_code": "340001008",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002005,
-            "versionCodeMinApi28": 340001005,
-            "version_code": "340001005",
+            "versionCodeMinApi31": 340002008,
+            "versionCodeMinApi28": 340001008,
+            "version_code": "340001008",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002005,
-            "versionCodeMinApi28": 340001005,
-            "version_code": "340001005",
+            "versionCodeMinApi31": 340002008,
+            "versionCodeMinApi28": 340001008,
+            "version_code": "340001008",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         }
     }
