@@ -3,34 +3,34 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
+            "changelog": "Hello to AI-powered Neptune Browser!\n* You can now open the AI model as a half-window from the shortcut menu on the main screen. You can change the model you want to use from the settings.\n* You can now save, view, or edit any website to Bookmarks via the dropdown menu.\n* You can now view or clear the Browser History via the dropdown menu.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
+            "changelog": "Hello to AI-powered Neptune Browser!\n* You can now open the AI model as a half-window from the shortcut menu on the main screen. You can change the model you want to use from the settings.\n* You can now save, view, or edit any website to Bookmarks via the dropdown menu.\n* You can now view or clear the Browser History via the dropdown menu.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
+            "changelog": "Hello to AI-powered Neptune Browser!\n* You can now open the AI model as a half-window from the shortcut menu on the main screen. You can change the model you want to use from the settings.\n* You can now save, view, or edit any website to Bookmarks via the dropdown menu.\n* You can now view or clear the Browser History via the dropdown menu.",
             "isOptional": true,
             "downloadUrl": ""
         }
