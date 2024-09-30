@@ -3,33 +3,33 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002008,
-            "versionCodeMinApi28": 340001008,
-            "version_code": "340001008",
+            "versionCodeMinApi31": 340002011,
+            "versionCodeMinApi28": 340001011,
+            "version_code": "340001011",
             "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
             "isOptional": true,
             "downloadUrl": ""
