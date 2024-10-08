@@ -3,35 +3,35 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002011,
-            "versionCodeMinApi28": 340001011,
-            "version_code": "340001011",
+            "versionCodeMinApi31": 340002014,
+            "versionCodeMinApi28": 340001014,
+            "version_code": "340001014",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": true,
+            "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002011,
-            "versionCodeMinApi28": 340001011,
-            "version_code": "340001011",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": true,
+            "versionCodeMinApi31": 340002014,
+            "versionCodeMinApi28": 340001014,
+            "version_code": "340001014",
+            "changelog": "* The 'update available' error has been fixed on devices running Android 12 or earlier, even when weekly updates are made.\n* We have reorganized the settings screen for easier access.",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002011,
-            "versionCodeMinApi28": 340001011,
-            "version_code": "340001011",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": true,
+            "versionCodeMinApi31": 340002014,
+            "versionCodeMinApi28": 340001014,
+            "version_code": "340001014",
+            "changelog": "* The 'update available' error has been fixed on devices running Android 12 or earlier, even when weekly updates are made.\n* We have reorganized the settings screen for easier access.",
+            "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002011,
-            "versionCodeMinApi28": 340001011,
-            "version_code": "340001011",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
-            "isOptional": true,
+            "versionCodeMinApi31": 340002014,
+            "versionCodeMinApi28": 340001014,
+            "version_code": "340001014",
+            "changelog": "* The 'update available' error has been fixed on devices running Android 12 or earlier, even when weekly updates are made.\n* We have reorganized the settings screen for easier access.",
+            "isOptional": false,
             "downloadUrl": ""
         }
     }
