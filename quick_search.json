@@ -3,35 +3,35 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002014,
-            "versionCodeMinApi28": 340001014,
-            "version_code": "340001014",
+            "versionCodeMinApi31": 340002018,
+            "versionCodeMinApi28": 340001018,
+            "version_code": "340001018",
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002014,
-            "versionCodeMinApi28": 340001014,
-            "version_code": "340001014",
-            "changelog": "* The 'update available' error has been fixed on devices running Android 12 or earlier, even when weekly updates are made.\n* We have reorganized the settings screen for easier access.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002018,
+            "versionCodeMinApi28": 340001018,
+            "version_code": "340001018",
+            "changelog": "Neptune is getting a brand new start page with shortcut support in this update. The shortcuts on the home screen will work independently of your bookmarks list. If you want to set a custom homepage instead of the start page, you can change this option in the app settings. Additionally, we have updated the address and search bar with the latest generation of Android tools.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002014,
-            "versionCodeMinApi28": 340001014,
-            "version_code": "340001014",
-            "changelog": "* The 'update available' error has been fixed on devices running Android 12 or earlier, even when weekly updates are made.\n* We have reorganized the settings screen for easier access.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002018,
+            "versionCodeMinApi28": 340001018,
+            "version_code": "340001018",
+            "changelog": "Neptune is getting a brand new start page with shortcut support in this update. The shortcuts on the home screen will work independently of your bookmarks list. If you want to set a custom homepage instead of the start page, you can change this option in the app settings. Additionally, we have updated the address and search bar with the latest generation of Android tools.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002014,
-            "versionCodeMinApi28": 340001014,
-            "version_code": "340001014",
-            "changelog": "* The 'update available' error has been fixed on devices running Android 12 or earlier, even when weekly updates are made.\n* We have reorganized the settings screen for easier access.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002018,
+            "versionCodeMinApi28": 340001018,
+            "version_code": "340001018",
+            "changelog": "Neptune is getting a brand new start page with shortcut support in this update. The shortcuts on the home screen will work independently of your bookmarks list. If you want to set a custom homepage instead of the start page, you can change this option in the app settings. Additionally, we have updated the address and search bar with the latest generation of Android tools.",
+            "isOptional": true,
             "downloadUrl": ""
         }
     }
