@@ -3,34 +3,34 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002018,
-            "versionCodeMinApi28": 340001018,
-            "version_code": "340001018",
+            "versionCodeMinApi31": 340002021,
+            "versionCodeMinApi28": 340001021,
+            "version_code": "340001021",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002018,
-            "versionCodeMinApi28": 340001018,
-            "version_code": "340001018",
-            "changelog": "Neptune is getting a brand new start page with shortcut support in this update. The shortcuts on the home screen will work independently of your bookmarks list. If you want to set a custom homepage instead of the start page, you can change this option in the app settings. Additionally, we have updated the address and search bar with the latest generation of Android tools.",
+            "versionCodeMinApi31": 340002021,
+            "versionCodeMinApi28": 340001021,
+            "version_code": "340001021",
+            "changelog": "In this update, a button has been added to the browser menu to translate websites that are not displayed in your device's language using Google Translate. Additionally, the previous URL system has been restored. Now, when you close the browser with a website open, you will resume from the previous web page upon returning.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002018,
-            "versionCodeMinApi28": 340001018,
-            "version_code": "340001018",
-            "changelog": "Neptune is getting a brand new start page with shortcut support in this update. The shortcuts on the home screen will work independently of your bookmarks list. If you want to set a custom homepage instead of the start page, you can change this option in the app settings. Additionally, we have updated the address and search bar with the latest generation of Android tools.",
+            "versionCodeMinApi31": 340002021,
+            "versionCodeMinApi28": 340001021,
+            "version_code": "340001021",
+            "changelog": "In this update, a button has been added to the browser menu to translate websites that are not displayed in your device's language using Google Translate. Additionally, the previous URL system has been restored. Now, when you close the browser with a website open, you will resume from the previous web page upon returning.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002018,
-            "versionCodeMinApi28": 340001018,
-            "version_code": "340001018",
-            "changelog": "Neptune is getting a brand new start page with shortcut support in this update. The shortcuts on the home screen will work independently of your bookmarks list. If you want to set a custom homepage instead of the start page, you can change this option in the app settings. Additionally, we have updated the address and search bar with the latest generation of Android tools.",
+            "versionCodeMinApi31": 340002021,
+            "versionCodeMinApi28": 340001021,
+            "version_code": "340001021",
+            "changelog": "In this update, a button has been added to the browser menu to translate websites that are not displayed in your device's language using Google Translate. Additionally, the previous URL system has been restored. Now, when you close the browser with a website open, you will resume from the previous web page upon returning.",
             "isOptional": true,
             "downloadUrl": ""
         }
