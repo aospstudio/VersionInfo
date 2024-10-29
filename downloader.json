@@ -3,34 +3,34 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002023,
-            "versionCodeMinApi28": 340001023,
-            "version_code": "340001023",
+            "versionCodeMinApi31": 340002024,
+            "versionCodeMinApi28": 340001024,
+            "version_code": "340001024",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002023,
-            "versionCodeMinApi28": 340001023,
-            "version_code": "340001023",
-            "changelog": "In this update, the previous URL system has been restored. Now, when you close the browser with a website open, you will resume from the previous web page upon returning. We have also made some minor changes to improve your browsing experience.",
+            "versionCodeMinApi31": 340002024,
+            "versionCodeMinApi28": 340001024,
+            "version_code": "340001024",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.\n\nWe would like to express our sadness regarding the significant drop in our Plus version sales following the survey we conducted about SuperApp. We need to clarify this misunderstanding. It will take us over a year to publish SuperApp in its full form, with many applications integrated. Our software development team is amazing, but we haven't even started prototyping this product yet. You still have the opportunity to take advantage of the special pricing options for the Plus package. Additionally, those who purchase the Plus version will have access to automatic subscriptions in the SuperApp for 1 to 3 years. If you have any other questions that haven't been answered, please don't hesitate to reach out to us. Our support team is here to help. Thank you for your understanding.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002023,
-            "versionCodeMinApi28": 340001023,
-            "version_code": "340001023",
-            "changelog": "In this update, the previous URL system has been restored. Now, when you close the browser with a website open, you will resume from the previous web page upon returning. We have also made some minor changes to improve your browsing experience.",
+            "versionCodeMinApi31": 340002024,
+            "versionCodeMinApi28": 340001024,
+            "version_code": "340001024",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.\n\nWe would like to express our sadness regarding the significant drop in our Plus version sales following the survey we conducted about SuperApp. We need to clarify this misunderstanding. It will take us over a year to publish SuperApp in its full form, with many applications integrated. Our software development team is amazing, but we haven't even started prototyping this product yet. You still have the opportunity to take advantage of the special pricing options for the Plus package. Additionally, those who purchase the Plus version will have access to automatic subscriptions in the SuperApp for 1 to 3 years. If you have any other questions that haven't been answered, please don't hesitate to reach out to us. Our support team is here to help. Thank you for your understanding.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002023,
-            "versionCodeMinApi28": 340001023,
-            "version_code": "340001023",
-            "changelog": "In this update, the previous URL system has been restored. Now, when you close the browser with a website open, you will resume from the previous web page upon returning. We have also made some minor changes to improve your browsing experience.",
+            "versionCodeMinApi31": 340002024,
+            "versionCodeMinApi28": 340001024,
+            "version_code": "340001024",
+            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.\n\nWe would like to express our sadness regarding the significant drop in our Plus version sales following the survey we conducted about SuperApp. We need to clarify this misunderstanding. It will take us over a year to publish SuperApp in its full form, with many applications integrated. Our software development team is amazing, but we haven't even started prototyping this product yet. You still have the opportunity to take advantage of the special pricing options for the Plus package. Additionally, those who purchase the Plus version will have access to automatic subscriptions in the SuperApp for 1 to 3 years. If you have any other questions that haven't been answered, please don't hesitate to reach out to us. Our support team is here to help. Thank you for your understanding.",
             "isOptional": true,
             "downloadUrl": ""
         }
