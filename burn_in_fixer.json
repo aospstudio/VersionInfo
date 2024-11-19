@@ -3,34 +3,34 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002024,
-            "versionCodeMinApi28": 340001024,
-            "version_code": "340001024",
+            "versionCodeMinApi31": 340002030,
+            "versionCodeMinApi28": 340001030,
+            "version_code": "340001030",
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002024,
-            "versionCodeMinApi28": 340001024,
-            "version_code": "340001024",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "versionCodeMinApi31": 340002030,
+            "versionCodeMinApi28": 340001030,
+            "version_code": "340001030",
+            "changelog": "With our latest update, we’re excited to introduce the 'Remote Update' system! To minimize app crashes and unnecessary updates when activating new features or addressing unexpected changes, some functions in our app are now connected to an online system. Whenever the app is connected to the internet, certain small files will be automatically updated. This ensures that if any issues occur during the activation of new features or adjustments, we can quickly revert them. Additionally, simply restarting the app once will automatically resolve the issue until the corrective update is delivered—without requiring a full app update.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002024,
-            "versionCodeMinApi28": 340001024,
-            "version_code": "340001024",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "versionCodeMinApi31": 340002030,
+            "versionCodeMinApi28": 340001030,
+            "version_code": "340001030",
+            "changelog": "With our latest update, we’re excited to introduce the 'Remote Update' system! To minimize app crashes and unnecessary updates when activating new features or addressing unexpected changes, some functions in our app are now connected to an online system. Whenever the app is connected to the internet, certain small files will be automatically updated. This ensures that if any issues occur during the activation of new features or adjustments, we can quickly revert them. Additionally, simply restarting the app once will automatically resolve the issue until the corrective update is delivered—without requiring a full app update.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002024,
-            "versionCodeMinApi28": 340001024,
-            "version_code": "340001024",
-            "changelog": "Updates improve the stability and reliability of the application. Thank you for choosing us.",
+            "versionCodeMinApi31": 340002030,
+            "versionCodeMinApi28": 340001030,
+            "version_code": "340001030",
+            "changelog": "With our latest update, we’re excited to introduce the 'Remote Update' system! To minimize app crashes and unnecessary updates when activating new features or addressing unexpected changes, some functions in our app are now connected to an online system. Whenever the app is connected to the internet, certain small files will be automatically updated. This ensures that if any issues occur during the activation of new features or adjustments, we can quickly revert them. Additionally, simply restarting the app once will automatically resolve the issue until the corrective update is delivered—without requiring a full app update.",
             "isOptional": true,
             "downloadUrl": ""
         }
