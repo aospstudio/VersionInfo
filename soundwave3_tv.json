@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002040,
-            "versionCodeMinApi28": 340001040,
+            "versionCodeMinApi31": 340002050,
+            "versionCodeMinApi28": 340001050,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002040,
-            "versionCodeMinApi28": 340001040,
-            "changelog": "* In addition to updates to the Privacy Policy and Terms of Use, a Disclaimer form has been added.\n* Includes various bug fixes and improvements.",
+            "versionCodeMinApi31": 340002050,
+            "versionCodeMinApi28": 340001050,
+            "changelog": "Say hello to our new subscription system!\n* We now offer a 14-day free trial before upgrading to Plus for the first time. If you're satisfied, your subscription will automatically upgrade to the Plus version via our monthly subscription system.\n* Some bug fixes have been made.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002040,
-            "versionCodeMinApi28": 340001040,
-            "changelog": "* In addition to updates to the Privacy Policy and Terms of Use, a Disclaimer form has been added.\n* Includes various bug fixes and improvements.",
+            "versionCodeMinApi31": 340002050,
+            "versionCodeMinApi28": 340001050,
+            "changelog": "Say hello to our new subscription system!\n* We now offer a 14-day free trial before upgrading to Plus for the first time. If you're satisfied, your subscription will automatically upgrade to the Plus version via our monthly subscription system.\n* Some bug fixes have been made.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002040,
-            "versionCodeMinApi28": 340001040,
-            "changelog": "* In addition to updates to the Privacy Policy and Terms of Use, a Disclaimer form has been added.\n* Includes various bug fixes and improvements.",
+            "versionCodeMinApi31": 340002050,
+            "versionCodeMinApi28": 340001050,
+            "changelog": "Say hello to our new subscription system!\n* We now offer a 14-day free trial before upgrading to Plus for the first time. If you're satisfied, your subscription will automatically upgrade to the Plus version via our monthly subscription system.\n* Some bug fixes have been made.",
             "isOptional": false,
             "downloadUrl": ""
         }
